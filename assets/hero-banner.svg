@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Monu (@developermonu) - Agentic AI Developer, ML Engineer, Backend Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Monu Kumar (@developermonu) - Agentic AI Developer, Cloud Engineer, Backend Developer">
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#090D16" />
@@ -37,41 +37,41 @@
   <rect x="8.75" y="8.75" width="1182.5" height="302.5" rx="20" fill="none" stroke="#30363D" stroke-width="1.5" />
 
   <!-- Top Status Pill -->
-  <rect x="56" y="42" width="268" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+  <rect x="56" y="42" width="288" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
   <circle cx="74" cy="56" r="4" fill="#10B981">
     <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite" />
   </circle>
-  <text x="88" y="60" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.1" fill="#A5F3FC">SYSTEMS &amp; AI ENGINEERING</text>
+  <text x="88" y="60" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.05" fill="#A5F3FC">CLOUD, BACKEND &amp; AI SYSTEMS</text>
 
   <!-- Name & Handle -->
-  <text x="56" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Monu<tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" font-weight="500" fill="#38BDF8" dx="14">@developermonu</tspan></text>
+  <text x="56" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Monu Kumar<tspan font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19" font-weight="500" fill="#38BDF8" dx="14">@developermonu</tspan></text>
 
   <!-- Roles -->
-  <text x="56" y="162" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#E2E8F0">Agentic AI Developer<tspan fill="#475569" dx="10">•</tspan><tspan fill="#E2E8F0" dx="10">ML Engineer</tspan><tspan fill="#475569" dx="10">•</tspan><tspan fill="#E2E8F0" dx="10">Backend Developer</tspan></text>
+  <text x="56" y="162" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#E2E8F0">Agentic AI Developer<tspan fill="#475569" dx="10">•</tspan><tspan fill="#E2E8F0" dx="10">Cloud Engineer</tspan><tspan fill="#475569" dx="10">•</tspan><tspan fill="#E2E8F0" dx="10">Backend Developer</tspan></text>
 
   <!-- Bio Summary -->
-  <text x="56" y="198" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#94A3B8">Architecting autonomous multi-agent workflows, production ML pipelines,</text>
-  <text x="56" y="219" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#94A3B8">and fault-tolerant distributed backends built for real-world latency and scale.</text>
+  <text x="56" y="198" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#94A3B8">Building multi-agent LLM systems, high-throughput Python &amp; FastAPI backends,</text>
+  <text x="56" y="219" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#94A3B8">and cloud-native infrastructure on AWS, GCP, Docker &amp; Kubernetes.</text>
 
   <!-- Bottom Pillar Badges -->
   <rect x="56" y="246" width="164" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
   <circle cx="72" cy="262" r="4" fill="#22D3EE" />
-  <text x="86" y="266" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E2E8F0">Agentic AI &amp; MCP</text>
+  <text x="86" y="266" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E2E8F0">Agentic AI &amp; RAG</text>
 
-  <rect x="232" y="246" width="164" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+  <rect x="232" y="246" width="180" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
   <circle cx="248" cy="262" r="4" fill="#818CF8" />
-  <text x="262" y="266" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E2E8F0">ML &amp; LLM Systems</text>
+  <text x="262" y="266" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E2E8F0">Cloud &amp; Kubernetes</text>
 
-  <rect x="408" y="246" width="194" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
-  <circle cx="424" cy="262" r="4" fill="#10B981" />
-  <text x="438" y="266" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E2E8F0">Distributed Backends</text>
+  <rect x="424" y="246" width="166" height="32" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+  <circle cx="440" cy="262" r="4" fill="#10B981" />
+  <text x="454" y="266" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E2E8F0">Python &amp; FastAPI</text>
 
   <!-- Right Architecture Mesh Card -->
   <rect x="744" y="38" width="404" height="244" rx="14" fill="#0B1220" fill-opacity="0.78" stroke="#1E293B" stroke-width="1.2" />
   <circle cx="764" cy="56" r="3.5" fill="#EF4444" opacity="0.75" />
   <circle cx="776" cy="56" r="3.5" fill="#F59E0B" opacity="0.75" />
   <circle cx="788" cy="56" r="3.5" fill="#10B981" opacity="0.75" />
-  <text x="1132" y="60" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#64748B">runtime://agent-mesh</text>
+  <text x="1132" y="60" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" fill="#64748B">cloud://agent-mesh</text>
   <line x1="744" y1="70" x2="1148" y2="70" stroke="#1E293B" stroke-width="1" />
 
   <!-- Connector Paths (Top -> Mid) -->
@@ -97,19 +97,19 @@
 
   <!-- Top Orchestrator Node -->
   <rect x="836" y="86" width="220" height="40" rx="8" fill="#111827" stroke="#818CF8" stroke-width="1.2" />
-  <text x="946" y="110" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E0E7FF">Orchestrator / Planner</text>
+  <text x="946" y="110" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" fill="#E0E7FF">Multi-Agent Orchestrator</text>
 
   <!-- Mid Specialist Nodes -->
   <rect x="766" y="156" width="112" height="38" rx="8" fill="#111827" stroke="#22D3EE" stroke-width="1.2" />
-  <text x="822" y="179" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#CFFAFE">Tools / MCP</text>
+  <text x="822" y="179" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#CFFAFE">RAG &amp; Tools</text>
 
   <rect x="890" y="156" width="112" height="38" rx="8" fill="#111827" stroke="#10B981" stroke-width="1.2" />
-  <text x="946" y="179" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#D1FAE5">RAG / Memory</text>
+  <text x="946" y="179" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#D1FAE5">Critic &amp; Eval</text>
 
   <rect x="1014" y="156" width="112" height="38" rx="8" fill="#111827" stroke="#F59E0B" stroke-width="1.2" />
-  <text x="1070" y="179" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#FEF3C7">Evals / Guard</text>
+  <text x="1070" y="179" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#FEF3C7">Redis &amp; SQL</text>
 
   <!-- Bottom Infra Layer -->
   <rect x="766" y="224" width="360" height="40" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-width="1.2" />
-  <text x="946" y="248" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#BAE6FD">Model Serving • Async APIs • Observability</text>
+  <text x="946" y="248" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" fill="#BAE6FD">AWS / GCP • Docker &amp; Kubernetes • CI/CD</text>
 </svg>

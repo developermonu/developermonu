@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm **Monu Kumar**, a Computer Science Engineering graduate (AI &amp; ML specialization) focused on building **Agentic AI workflows**, **cloud-native infrastructure**, and **high-throughput Python backend systems**.
+I'm **Monu Kumar**, a Computer Science Engineer (AI &amp; ML specialization) focused on building **Agentic AI workflows**, **cloud-native infrastructure**, and **high-throughput Python backend systems**.
 
 From designing multi-agent LLM orchestration and automated evaluation pipelines (`ComputerBench` / `Terminal-Bench 2.0`) to shipping horizontally scalable REST APIs on **AWS**, **Docker**, and **Kubernetes**, I care about turning complex AI &amp; backend ideas into **fast, deterministic, production-ready software**.
 
